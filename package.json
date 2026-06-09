@@ -10,8 +10,7 @@
     "node": ">=18.0.0"
   },
   "dependencies": {
-    "consumet-converter": "^1.0.0",
-    "cors": "^2.8.5",
-    "express": "^4.21.0"
+  "cors": "^2.8.5",
+  "express": "^4.21.0"
   }
 }
